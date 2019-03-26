@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spawner
+  - Obstacle
+  - LevelEnd
+  - ObstacleTouch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: NewLevel
+    uniqueID: 3831327925
+    locked: 0
+  - name: CurrentLevel
+    uniqueID: 163228391
+    locked: 0
+  - name: OldLevel
+    uniqueID: 3432079139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
